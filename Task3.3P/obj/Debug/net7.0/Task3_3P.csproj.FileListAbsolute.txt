@@ -1,0 +1,14 @@
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/bin/Debug/net7.0/Task3_3P
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/bin/Debug/net7.0/Task3_3P.deps.json
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/bin/Debug/net7.0/Task3_3P.runtimeconfig.json
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/bin/Debug/net7.0/Task3_3P.dll
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/bin/Debug/net7.0/Task3_3P.pdb
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/obj/Debug/net7.0/Task3_3P.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/obj/Debug/net7.0/Task3_3P.AssemblyInfoInputs.cache
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/obj/Debug/net7.0/Task3_3P.AssemblyInfo.cs
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/obj/Debug/net7.0/Task3_3P.csproj.CoreCompileInputs.cache
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/obj/Debug/net7.0/Task3_3P.dll
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/obj/Debug/net7.0/refint/Task3_3P.dll
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/obj/Debug/net7.0/Task3_3P.pdb
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/obj/Debug/net7.0/Task3_3P.genruntimeconfig.cache
+/Users/guest1/Desktop/oop/Task3.3P/Task3.3P/obj/Debug/net7.0/ref/Task3_3P.dll

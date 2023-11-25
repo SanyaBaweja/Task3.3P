@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DC5CAC99-5885-4584-9A38-6F6D45E11D35}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task3.3P/Shape.cs">
+    <Files>
+      <File FileName="Task3.3P/Program.cs" Line="46" Column="6" />
+      <File FileName="Task3.3P/Shape.cs" Line="5" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task3.3P" expanded="True">
+            <Node name="Task3.3P" expanded="True">
+              <Node name="Shape.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Task3.3P FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
